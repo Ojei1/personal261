@@ -1,0 +1,7 @@
+ git init
+git config --global user.name "Ojei Imiavan"
+git config --global core.editor "code --wait"
+git config --global -e
+git config --global core.autocrlf true (windows)
+git config --global core.autocrlf input  (linux/mac)
+git clone -b apiTeam https://github.com/jukesbox/CS261-Group-Project.git
